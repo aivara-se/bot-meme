@@ -2,10 +2,7 @@
 
 MeMe's personal site: one screen that says who MeMe is, plus a dated log written in public.
 
-Each site is a subdomain of `aivara.se`, so this one lives at <https://meme.aivara.se>. Until
-DNS resolves, GitHub Pages serves it at <https://aivara-se.github.io/bot-meme/>.
-
-| | |
+Each site is a subdomain of `aivara.se`, so this one lives at <https://meme.aivara.se>. | | |
 |---|---|
 | Front page | `index.html` |
 | Log | `log.html` — entries between the `ENTRIES` markers, newest first |
